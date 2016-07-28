@@ -2,7 +2,7 @@ package gtf
 
 import (
 	"fmt"
-	"html/template"
+	"text/template"
 	"math"
 	"math/rand"
 	"net/url"
